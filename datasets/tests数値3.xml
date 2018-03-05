@@ -1,0 +1,714 @@
+<?xml version="1.0" ?>
+<Page id="1" filename="解析学3.png" width="2044" height="2985">
+<Block id="2" width="1940" height="1568" xoffset="0" yoffset="0">
+<Line id="3" width="863" height="537" xoffset="0" yoffset="0">
+<underline id="4" line_type="straight" width="170" height="9" xoffset="53" yoffset="464">
+<Character id="5" width="47" height="51" xoffset="68" yoffset="401">
+問
+</Character>
+<Character id="6" width="51" height="51" xoffset="129" yoffset="398">
+題
+</Character>
+<Character id="7" width="26" height="35" xoffset="188" yoffset="408">
+3
+</Character>
+</underline>
+<Character id="8" width="38" height="52" xoffset="310" yoffset="439">
+A
+</Character>
+<Character id="9" width="20" height="15" xoffset="366" yoffset="457">
+=
+</Character>
+<Character id="10" width="27" height="28" xoffset="437" yoffset="424">
+x
+</Character>
+<Character id="11" width="31" height="18" xoffset="474" yoffset="420">
+e
+</Character>
+<Character id="12" width="7" height="9" xoffset="513" yoffset="455">
+y
+</Character>
+<Character id="13" width="15" height="5" xoffset="542" yoffset="435">
+-
+</Character>
+<Character id="14" width="27" height="46" xoffset="574" yoffset="410">
+y
+</Character>
+<Character id="15" width="29" height="39" xoffset="608" yoffset="419">
+e
+</Character>
+<Character id="16" width="18" height="20" xoffset="644" yoffset="441">
+x
+</Character>
+<Character id="17" width="247" height="24" xoffset="421" yoffset="457.8399963378906">
+/
+</Character>
+<Character id="18" width="31" height="32" xoffset="483" yoffset="498">
+x
+</Character>
+<Character id="19" width="18" height="20" xoffset="517" yoffset="488">
+2
+</Character>
+<Character id="20" width="26" height="25" xoffset="534" yoffset="501">
++
+</Character>
+<Character id="21" width="31" height="45" xoffset="584" yoffset="492">
+y
+</Character>
+<Character id="22" width="25" height="23" xoffset="619" yoffset="487">
+2
+</Character>
+<Character id="23" width="40" height="34" xoffset="698" yoffset="451">
+に
+</Character>
+<Character id="24" width="16" height="22" xoffset="757" yoffset="456">
+つ
+</Character>
+<Character id="25" width="28" height="19" xoffset="796" yoffset="456">
+い
+</Character>
+<Character id="26" width="18" height="30" xoffset="845" yoffset="451">
+て
+</Character>
+</Line>
+<Line id="27" width="951" height="109" xoffset="199" yoffset="564">
+<Character id="29" width="21" height="19" xoffset="199" yoffset="593">
+つ
+</Character>
+<Character id="30" width="27" height="32" xoffset="243" yoffset="584">
+ま
+</Character>
+<Character id="31" width="21" height="32" xoffset="285" yoffset="585">
+り
+</Character>
+<Character id="32" width="5" height="7" xoffset="319" yoffset="612">
+、
+</Character>
+<Character id="33" width="31" height="52" xoffset="366" yoffset="578">
+A
+</Character>
+<Character id="34" width="22" height="24" xoffset="405" yoffset="604">
+x
+</Character>
+<Character id="35" width="16" height="13" xoffset="453" yoffset="598">
+=
+</Character>
+<Character id="36" width="23" height="4" xoffset="506" yoffset="584">
+-
+</Character>
+<Character id="37" width="28" height="36" xoffset="549" yoffset="564">
+y
+</Character>
+<Character id="38" width="117" height="9" xoffset="503" yoffset="609">
+/
+</Character>
+<Character id="39" width="14" height="25" xoffset="488" yoffset="638">
+x
+</Character>
+<Character id="40" width="34" height="36" xoffset="503" yoffset="623">
+2
+</Character>
+<Character id="41" width="26" height="24" xoffset="534" yoffset="631.8400039672851">
++
+</Character>
+<Character id="42" width="25" height="36" xoffset="571" yoffset="629">
+y
+</Character>
+<Character id="43" width="17" height="16" xoffset="603" yoffset="633">
+2
+</Character>
+<Character id="44" width="15" height="24" xoffset="636" yoffset="638.8400039672851">
+,
+</Character>
+<Character id="45" width="30" height="46" xoffset="694" yoffset="592">
+A
+</Character>
+<Character id="46" width="25" height="34" xoffset="738" yoffset="613">
+y
+</Character>
+<Character id="47" width="15" height="13" xoffset="781" yoffset="610">
+=
+</Character>
+<Character id="48" width="25" height="24" xoffset="851" yoffset="576">
+x
+</Character>
+<Character id="49" width="129" height="12" xoffset="805" yoffset="609">
+/
+</Character>
+<Character id="50" width="24" height="23" xoffset="819" yoffset="640">
+x
+</Character>
+<Character id="51" width="12" height="19" xoffset="852" yoffset="629">
+2
+</Character>
+<Character id="52" width="20" height="19" xoffset="864" yoffset="644">
++
+</Character>
+<Character id="53" width="18" height="39" xoffset="898" yoffset="634">
+y
+</Character>
+<Character id="54" width="14" height="12" xoffset="924" yoffset="632">
+2
+</Character>
+<Character id="55" width="5" height="12" xoffset="964" yoffset="629">
+・
+</Character>
+<Character id="56" width="32" height="47" xoffset="993" yoffset="591">
+A
+</Character>
+<Character id="57" width="20" height="21" xoffset="1034" yoffset="620">
+z
+</Character>
+<Character id="58" width="15" height="16" xoffset="1087" yoffset="613">
+=
+</Character>
+<Character id="59" width="26" height="23" xoffset="1124" yoffset="611">
+0
+</Character>
+</Line>
+<Line id="60" width="1227" height="829" xoffset="0" yoffset="0">
+<Character id="61" width="14" height="25" xoffset="293" yoffset="733.8400039672851">
+c
+</Character>
+<Character id="62" width="16" height="32" xoffset="312" yoffset="732">
+o
+</Character>
+<Character id="63" width="26" height="30" xoffset="331" yoffset="731">
+t
+</Character>
+<Character id="64" width="34" height="55" xoffset="370" yoffset="716">
+A
+</Character>
+<Character id="65" width="18" height="16" xoffset="421" yoffset="744">
+=
+</Character>
+<Character id="66" width="23" height="95" xoffset="459" yoffset="707">
+(
+</Character>
+<underline id="67" line_type="wave" width="3" height="4" xoffset="498" yoffset="824">
+<Character id="68" width="21" height="35" xoffset="495" yoffset="700">
+δ
+</Character>
+<Character id="69" width="9" height="31" xoffset="536" yoffset="697.8400039672851">
+A
+</Character>
+<Character id="70" width="8" height="14" xoffset="550" yoffset="722">
+z
+</Character>
+<Character id="71" width="85" height="8" xoffset="488" yoffset="743">
+/
+</Character>
+<Character id="72" width="31" height="41" xoffset="483" yoffset="761">
+δ
+</Character>
+<Character id="73" width="25" height="36" xoffset="523" yoffset="759">
+y
+</Character>
+<Character id="74" width="17" height="5" xoffset="584" yoffset="748">
+-
+</Character>
+<Character id="75" width="38" height="44" xoffset="616" yoffset="699">
+δ
+</Character>
+<Character id="76" width="25" height="43" xoffset="656" yoffset="697">
+A
+</Character>
+<Character id="77" width="15" height="31" xoffset="687" yoffset="718">
+y
+</Character>
+<Character id="78" width="25" height="8" xoffset="614" yoffset="748">
+/
+</Character>
+<Character id="79" width="20" height="38" xoffset="617" yoffset="761">
+δ
+</Character>
+<Character id="80" width="25" height="27" xoffset="647" yoffset="768">
+z
+</Character>
+<Character id="81" width="11" height="20" xoffset="693" yoffset="780">
+,
+</Character>
+</underline>
+<underline id="82" line_type="wave" width="17" height="12" xoffset="723" yoffset="817">
+<Character id="83" width="27" height="40" xoffset="733" yoffset="702">
+δ
+</Character>
+<Character id="84" width="31" height="43" xoffset="761" yoffset="702">
+A
+</Character>
+<Character id="85" width="16" height="21" xoffset="795" yoffset="723">
+x
+</Character>
+<Character id="86" width="65" height="20" xoffset="733" yoffset="740">
+/
+</Character>
+<Character id="87" width="27" height="34" xoffset="734" yoffset="768">
+δ
+</Character>
+<Character id="88" width="26" height="29" xoffset="766" yoffset="772">
+z
+</Character>
+<Character id="89" width="24" height="6" xoffset="823" yoffset="753">
+－
+</Character>
+<Character id="90" width="29" height="36" xoffset="867" yoffset="711">
+δ
+</Character>
+<Character id="91" width="22" height="44" xoffset="901" yoffset="706">
+A
+</Character>
+<Character id="92" width="20" height="20" xoffset="924" yoffset="725">
+z
+</Character>
+<Character id="93" width="69" height="15" xoffset="867" yoffset="751">
+/
+</Character>
+<Character id="94" width="25" height="37" xoffset="856" yoffset="769">
+δ
+</Character>
+<Character id="95" width="22" height="30" xoffset="890" yoffset="773">
+x
+</Character>
+</underline>
+<Character id="96" width="9" height="19" xoffset="943" yoffset="781">
+、
+</Character>
+<underline id="97" line_type="wave" width="197" height="10" xoffset="967" yoffset="816">
+<Character id="98" width="18" height="34" xoffset="995" yoffset="710">
+δ
+</Character>
+<Character id="99" width="34" height="36" xoffset="1020" yoffset="710">
+A
+</Character>
+<Character id="100" width="18" height="28" xoffset="1047" yoffset="726">
+y
+</Character>
+<Character id="101" width="83" height="22" xoffset="976" yoffset="737">
+/
+</Character>
+<Character id="102" width="23" height="34" xoffset="983" yoffset="764">
+δ
+</Character>
+<Character id="103" width="23" height="34" xoffset="983" yoffset="764">
+x
+</Character>
+<Character id="104" width="21" height="21" xoffset="1015" yoffset="781">
+－
+</Character>
+<Character id="105" width="20" height="7" xoffset="1077" yoffset="747">
+δ
+</Character>
+<Character id="106" width="30" height="29" xoffset="1118" yoffset="711">
+A
+</Character>
+<Character id="107" width="24" height="34" xoffset="1153" yoffset="706">
+x
+</Character>
+<Character id="108" width="19" height="22" xoffset="1190" yoffset="727">
+/
+</Character>
+<Character id="109" width="79" height="11" xoffset="1113" yoffset="749">
+δ
+</Character>
+<Character id="110" width="23" height="33" xoffset="1113" yoffset="761">
+y
+</Character>
+<Character id="111" width="15" height="27" xoffset="1152" yoffset="768">
+
+</Character>
+</underline>
+<Character id="112" width="37" height="112" xoffset="1190" yoffset="702">
+）
+</Character>
+</Line>
+<Line id="113" width="936" height="112" xoffset="1004" yoffset="835">
+<Character id="114" width="31" height="68" xoffset="1004" yoffset="835">
+→
+</Character>
+<Character id="115" width="28" height="13" xoffset="1056" yoffset="883">
+δ
+</Character>
+<Character id="116" width="45" height="11" xoffset="1048" yoffset="897.8399963378906">
+/
+</Character>
+<Character id="117" width="19" height="24" xoffset="1050" yoffset="914">
+δ
+</Character>
+<Character id="118" width="21" height="25" xoffset="1071" yoffset="914">
+x
+</Character>
+<Character id="119" width="20" height="71" xoffset="1100" yoffset="866">
+(
+</Character>
+<Character id="120" width="24" height="23" xoffset="1154" yoffset="872">
+x
+</Character>
+<Character id="121" width="88" height="6" xoffset="1117" yoffset="905">
+/
+</Character>
+<Character id="122" width="27" height="24" xoffset="1116" yoffset="918">
+x
+</Character>
+<Character id="123" width="26" height="30" xoffset="1144" yoffset="909">
++
+</Character>
+<Character id="124" width="16" height="38" xoffset="1175" yoffset="909">
+y
+</Character>
+<Character id="125" width="12" height="14" xoffset="1194" yoffset="917">
+2
+</Character>
+<Character id="126" width="22" height="63" xoffset="1203" yoffset="880">
+)
+</Character>
+<Character id="127" width="23" height="20" xoffset="1228" yoffset="898">
++
+</Character>
+<Character id="128" width="23" height="30" xoffset="1273" yoffset="875">
+δ
+</Character>
+<Character id="129" width="54" height="10" xoffset="1252" yoffset="908">
+/
+</Character>
+<Character id="130" width="16" height="24" xoffset="1255" yoffset="914">
+δ
+</Character>
+<Character id="131" width="24" height="25" xoffset="1278" yoffset="918">
+y
+</Character>
+<Character id="132" width="43" height="69" xoffset="1309" yoffset="875">
+(
+</Character>
+<Character id="133" width="14" height="5" xoffset="1360" yoffset="885">
+y
+</Character>
+<Character id="134" width="89" height="20" xoffset="1321" yoffset="906">
+/
+</Character>
+<Character id="135" width="32" height="24" xoffset="1326" yoffset="922.8399963378906">
+x
+</Character>
+<Character id="136" width="13" height="20" xoffset="1362" yoffset="924">
++
+</Character>
+<Character id="137" width="27" height="31" xoffset="1383" yoffset="906">
+y
+</Character>
+<Character id="138" width="21" height="56" xoffset="1417" yoffset="884">
+)
+</Character>
+<Character id="139" width="23" height="14" xoffset="1459" yoffset="900">
+=
+</Character>
+<Character id="140" width="23" height="24" xoffset="1504" yoffset="895">
+0
+</Character>
+<Character id="141" width="16" height="36" xoffset="1620" yoffset="864">
+(
+</Character>
+<Character id="142" width="21" height="36" xoffset="1644" yoffset="864">
+x
+</Character>
+<Character id="143" width="15" height="17" xoffset="1666" yoffset="855">
+2
+</Character>
+<Character id="144" width="9" height="23" xoffset="1686" yoffset="867.8399963378906">
++
+</Character>
+<Character id="145" width="16" height="34" xoffset="1704" yoffset="860">
+y
+</Character>
+<Character id="146" width="11" height="16" xoffset="1729" yoffset="856">
+2
+</Character>
+<Character id="147" width="22" height="31" xoffset="1750" yoffset="862">
+≠
+</Character>
+<Character id="148" width="21" height="22" xoffset="1782" yoffset="870">
+0
+</Character>
+<Character id="149" width="22" height="16" xoffset="1829" yoffset="872">
+の
+</Character>
+<Character id="150" width="25" height="21" xoffset="1861" yoffset="871">
+と
+</Character>
+<Character id="151" width="25" height="26" xoffset="1887" yoffset="867">
+き
+</Character>
+<Character id="152" width="22" height="41" xoffset="1918" yoffset="858">
+)
+</Character>
+</Line>
+<Line id="153" width="799" height="46" xoffset="253" yoffset="994">
+<Character id="154" width="27" height="28" xoffset="253" yoffset="1008">
+z
+</Character>
+<Character id="155" width="60" height="45" xoffset="290" yoffset="995">
+軸
+</Character>
+<Character id="156" width="27" height="28" xoffset="372" yoffset="1005">
+を
+</Character>
+<Character id="157" width="24" height="19" xoffset="421" yoffset="1007">
+の
+</Character>
+<Character id="158" width="46" height="32" xoffset="461" yoffset="1002">
+ぞ
+</Character>
+<Character id="159" width="18" height="18" xoffset="518" yoffset="1012">
+い
+</Character>
+<Character id="160" width="13" height="24" xoffset="543" yoffset="1014">
+て
+</Character>
+<Character id="161" width="14" height="19" xoffset="602" yoffset="1016.8399963378906">
+r
+</Character>
+<Character id="162" width="22" height="24" xoffset="620" yoffset="1014">
+o
+</Character>
+<Character id="163" width="26" height="33" xoffset="647" yoffset="1005">
+t
+</Character>
+<Character id="164" width="31" height="39" xoffset="687" yoffset="995">
+A
+</Character>
+<Character id="165" width="19" height="17" xoffset="744" yoffset="1002">
+=
+</Character>
+<Character id="166" width="27" height="29" xoffset="774" yoffset="1004">
+0
+</Character>
+<Character id="167" width="22" height="32" xoffset="836" yoffset="1000">
+と
+</Character>
+<Character id="168" width="28" height="27" xoffset="877" yoffset="1001">
+な
+</Character>
+<Character id="169" width="8" height="14" xoffset="922" yoffset="1016">
+っ
+</Character>
+<Character id="170" width="15" height="22" xoffset="949" yoffset="1005">
+て
+</Character>
+<Character id="171" width="24" height="18" xoffset="977" yoffset="1008">
+い
+</Character>
+<Character id="172" width="18" height="35" xoffset="1019" yoffset="994">
+る
+</Character>
+<Character id="173" width="4" height="4" xoffset="1048" yoffset="1029">
+。
+</Character>
+</Line>
+<Line id="174" width="1141" height="62" xoffset="392" yoffset="1075">
+<Character id="175" width="31" height="46" xoffset="392" yoffset="1082">
+A
+</Character>
+<Character id="176" width="16" height="14" xoffset="434" yoffset="1097">
+=
+</Character>
+<Character id="177" width="30" height="47" xoffset="480" yoffset="1089">
+g
+</Character>
+<Character id="178" width="15" height="19" xoffset="514" yoffset="1094.8399963378906">
+r
+</Character>
+<Character id="179" width="-3" height="25" xoffset="559" yoffset="1093">
+a
+</Character>
+<Character id="180" width="35" height="42" xoffset="556" yoffset="1076">
+d
+</Character>
+<Character id="181" width="37" height="57" xoffset="600" yoffset="1075">
+f
+</Character>
+<Character id="182" width="25" height="27" xoffset="662" yoffset="1100">
+と
+</Character>
+<Character id="183" width="35" height="31" xoffset="701" yoffset="1098">
+な
+</Character>
+<Character id="184" width="14" height="33" xoffset="744" yoffset="1099">
+る
+</Character>
+<Character id="185" width="33" height="52" xoffset="778" yoffset="1085">
+f
+</Character>
+<Character id="186" width="34" height="28" xoffset="829" yoffset="1097">
+は
+</Character>
+<Character id="187" width="29" height="5" xoffset="896" yoffset="1101">
+一
+</Character>
+<Character id="188" width="61" height="41" xoffset="945" yoffset="1081">
+価
+</Character>
+<Character id="189" width="48" height="42" xoffset="1019" yoffset="1078">
+関
+</Character>
+<Character id="190" width="48" height="43" xoffset="1081" yoffset="1076">
+数
+</Character>
+<Character id="191" width="25" height="26" xoffset="1152" yoffset="1090">
+と
+</Character>
+<Character id="192" width="12" height="31" xoffset="1196" yoffset="1088">
+し
+</Character>
+<Character id="193" width="33" height="33" xoffset="1218" yoffset="1092.8399963378906">
+て
+</Character>
+<Character id="194" width="34" height="27" xoffset="1261" yoffset="1093">
+は
+</Character>
+<Character id="195" width="46" height="46" xoffset="1310" yoffset="1078">
+存
+</Character>
+<Character id="196" width="41" height="44" xoffset="1365" yoffset="1079">
+在
+</Character>
+<Character id="197" width="18" height="27" xoffset="1419" yoffset="1094">
+し
+</Character>
+<Character id="198" width="38" height="26" xoffset="1452" yoffset="1087">
+な
+</Character>
+<Character id="199" width="32" height="17" xoffset="1501" yoffset="1095">
+い
+</Character>
+</Line>
+<Line id="200" width="275" height="132" xoffset="583" yoffset="1152">
+<box id="201" width="275" height="132" xoffset="583" yoffset="1152">
+<Character id="202" width="24" height="46" xoffset="605" yoffset="1192">
+θ
+</Character>
+<Character id="203" width="19" height="17" xoffset="638" yoffset="1215">
+＝
+</Character>
+<Character id="204" width="30" height="39" xoffset="663" yoffset="1204">
+t
+</Character>
+<Character id="205" width="17" height="17" xoffset="697" yoffset="1220">
+a
+</Character>
+<Character id="206" width="27" height="19" xoffset="717" yoffset="1223.8399658203125">
+m
+</Character>
+<Character id="207" width="13" height="5" xoffset="750" yoffset="1211">
+-
+</Character>
+<Character id="208" width="4" height="17" xoffset="772" yoffset="1202">
+1
+</Character>
+<Character id="209" width="8" height="12" xoffset="813" yoffset="1211">
+d
+</Character>
+<Character id="210" width="16" height="10" xoffset="799" yoffset="1220.8399658203125">
+/
+</Character>
+<Character id="211" width="20" height="18" xoffset="798" yoffset="1242">
+x
+</Character>
+</box>
+</Line>
+<Line id="212" width="625" height="68" xoffset="412" yoffset="1329">
+<Character id="213" width="36" height="63" xoffset="412" yoffset="1329">
+f
+</Character>
+<Character id="214" width="47" height="35" xoffset="449" yoffset="1354.8399658203125">
+を
+</Character>
+<Character id="215" width="18" height="22" xoffset="506" yoffset="1365">
+つ
+</Character>
+<Character id="216" width="27" height="28" xoffset="533" yoffset="1355">
+く
+</Character>
+<Character id="217" width="19" height="36" xoffset="568" yoffset="1354">
+る
+</Character>
+<Character id="218" width="27" height="20" xoffset="608" yoffset="1364">
+の
+</Character>
+<Character id="219" width="28" height="34" xoffset="654" yoffset="1351">
+に
+</Character>
+<Character id="220" width="65" height="48" xoffset="699" yoffset="1346">
+線
+</Character>
+<Character id="221" width="48" height="67" xoffset="770" yoffset="1330">
+積
+</Character>
+<Character id="222" width="37" height="47" xoffset="818" yoffset="1348">
+分
+</Character>
+<Character id="223" width="44" height="27" xoffset="867" yoffset="1360">
+で
+</Character>
+<Character id="224" width="58" height="42" xoffset="910" yoffset="1345">
+作
+</Character>
+<Character id="225" width="13" height="14" xoffset="980" yoffset="1372">
+っ
+</Character>
+<Character id="226" width="28" height="35" xoffset="1009" yoffset="1350">
+た
+</Character>
+</Line>
+<Line id="227" width="536" height="119" xoffset="504" yoffset="1449">
+<Character id="228" width="38" height="110" xoffset="504" yoffset="1454">
+∫
+</Character>
+<Character id="229" width="29" height="34" xoffset="549" yoffset="1449">
+r
+</Character>
+<Character id="230" width="28" height="29" xoffset="527" yoffset="1539">
+a
+</Character>
+<Character id="231" width="13" height="50" xoffset="600" yoffset="1490">
+A
+</Character>
+<Character id="232" width="5" height="8" xoffset="634" yoffset="1517">
+・
+</Character>
+<Character id="233" width="33" height="45" xoffset="648" yoffset="1489">
+d
+</Character>
+<Character id="234" width="36" height="45" xoffset="684" yoffset="1489">
+r
+</Character>
+<Character id="235" width="19" height="15" xoffset="737" yoffset="1512">
+=
+</Character>
+<Character id="236" width="36" height="78" xoffset="762" yoffset="1485">
+f
+</Character>
+<Character id="237" width="23" height="43" xoffset="794" yoffset="1499">
+(
+</Character>
+<Character id="238" width="34" height="34" xoffset="818" yoffset="1501">
+r
+</Character>
+<Character id="239" width="16" height="39" xoffset="853" yoffset="1496">
+)
+</Character>
+<Character id="240" width="22" height="5" xoffset="896" yoffset="1512">
+-
+</Character>
+<Character id="241" width="33" height="63" xoffset="929" yoffset="1485">
+F
+</Character>
+<Character id="242" width="25" height="53" xoffset="965" yoffset="1485">
+(
+</Character>
+<Character id="243" width="24" height="44" xoffset="994" yoffset="1494">
+a
+</Character>
+<Character id="244" width="17" height="41" xoffset="1023" yoffset="1501">
+)
+</Character>
+</Line>
+</Block>
+</Page>

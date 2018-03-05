@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <link rel="stylesheet" href="style1.css">
+    <meta charset='utf-8'>
+    <title>データセット作成ツール</title>
+  </head>
+  <body>
+    <h1>データセット作成ツール</h1>
+    <table border="0" cellspacing="0" width="200" height="100">
+      <tr>
+	<td>
+	  <!-- <div style="height:1000px; width:1000px; overflow-y:scroll;"> -->
+	  <table border="0" width="700" height="100">
+	    <tr>
+	      <td>
+		<!-- <form> -->
+		<!-- <input type="radio" name="Radio1" id="Sakujo"/>一部削除 -->
+		<!-- <input type="radio" name="Radio1" id="Zensakujo"/>全削除<br> -->
+		<!-- <input type="radio" name="Radio2" id="Inner_Line_Delete"/> Line内部削除 -->
+		<!-- <input type="radio" name="Radio2" id="Inner_Block_Delete"/> Block内部削除 -->
+
+		<!-- <div id="tgCountupTimer"> -->
+		<!--   <p class="time">00:00:00:0</p> -->
+		<!--   <form> -->
+		<!--     <input type="button" value="Start" id="startButton"> -->
+		<!--     <input type="button" value="Stop" id="stopButton" disabled> -->
+		<!--     <input type="button" value="Restart" id="restartButton" disabled> -->
+		<!--     <input type="button" value="Clear" id="clearButton" disabled> -->
+		<!--   </form> -->
+		<!-- </div> -->
+		
+		<div id="timerText">0:00:00:000</div>
+		<button id="start">Start</button>
+		<button id="stop">Stop</button>
+		<button id="reset">Reset</button></br>
+		<input type="button" value="Canvas Image" id="Save_Image"/><input type="button" value="Rect Image" id="Rect_Image"/><input type="button" value="undo" id="undo" onclick="undo()"/></br>
+		全削除
+		<input type="button" value="Delete" id="Delete"/></br>
+		<!-- </form> -->
+		<div id="info"></div>
+		<div id="d"></div>
+		<div style="height:1000px; width:1000px; overflow-y:scroll;">
+		  <canvas id="mycanvas" width="10000px" height="10000px"></canvas>
+		<!-- </div> -->
+	    </tr>
+	  </table>
+	  </div>
+	</td>
+	<td>
+	  <table border="0">
+	    <tr>
+	      <br>
+		
+		画像ファイル選択<input type="file" id="file-image" name="file" accept="image/*" autocomplete="off">
+		<div id="print_img">
+		  <p class="custom">
+		    <textarea id="iL" class="logArea" rows="6" cols="50" autocomplete="off"></textarea>
+		    <textarea id="from_cpp" class="logArea" rows="6" cols="50" autocomplete="off"></textarea>
+		  </p>
+		  width:<input type="text" id="rewrite1_1" size="3">height:<input type="text" id="rewrite2_2" size="3"><input type="button" id="rewrite3_3" value="このサイズ以下の矩形を削除"><input type="button" id="rewrite4_4" value="元に戻す"></br>
+		  <a  href="#" id="download" download="test.xml" onclick="handleDownload()">保存(XML)</a>
+		  <a  href="#" id="download2" download="sample(rect_info).txt" onclick="handleDownload2()">保存(Text)</a></br>
+		  <br>
+		  XMLファイル選択<input type="file" id="selfile" autocomplete="off"></br>
+		  Textファイル選択<input type="file" id="from_cpp_txtfile" autocomplete="off">
+      <!-- </br> -->
+		  <p id="width-height">width: height: </p>
+		  <p class="custom">
+		    <br>
+<!--widthの下-->
+		    <textarea id="lc_position" class="logArea" rows="4" cols="50" autocomplete="off"></textarea></br>
+		  </p>
+<form name="js">
+		  <textarea id="chara_save" rows="2" cols="50" autocomplete="off"></textarea>
+</form>
+		  <!-- <form name="form1" action=""> -->
+		  <!-- 	<input id="clip1" name="CheckClip" type="checkbox" value="clipping">矩形の分割作業</label>   -->
+		  <!-- </form> -->
+		  <!-- <input id="clip1" name="CheckClip" type="checkbox" value="clipping" onKeyDown="keyInput(ev)">矩形の分割作業</label></br> -->
+		  <!-- <a  href="#" id="download2" download="sample(rect_info).txt" onclick="handleDownload2()">保存</a></br> -->
+		  <canvas id="clippingcanvas"></canvas></br>
+		  <!-- <form name="Sample3_form" action="annotation_tool.html"> -->
+		  <!-- 	<input type="radio" id="clip_lo" name="radio" value="縦分割" onclick="Sample3()"><label for="radio01">縦分割</label> -->
+		  <!-- 	<input type="radio" id="clip_si" name="radio" value="横分割" onclick="Sample3()"><label for="radio02">横分割</label> -->
+		  <!-- </form> -->
+		  <!-- <form name="Sample" action="annotation_tool.html"> -->
+		  
+		  <input id="cut1" type="button" value="縦分割"/>
+		  <input id="cut2" type="button" value="横分割"/>
+		  <input type="button" id="cutfinish" value="分割線出力"/>
+		  <!-- <input type="button" id="nocut" value="キャンセル"/> --><br/>
+		  <p class="custom">
+		    <textarea id="cuttext" class="logArea" rows="1" cols="45" autocomplete="off"></textarea><br/>
+		  </p>
+		  <!-- <div id="output"></div> -->
+		  <!-- </form> -->
+
+		  <input type="text" id="select_point" size="3"/>
+		  <input type="button" id="select_point_button" value="操作開始"><br/>
+		  
+		  <input type="button" id="drawing_rect" value="Draw the Rect"/>
+		  <br><input type="button" id="Block_Event" value="Block's Event"/>
+		  <input type="button" id="out01" name="text" value="Exit(Page)"/></br>
+		  <input type="button" id="text01" name="text" value="Text" onclick="Exitbutton()"/> 
+		  <input type="text" id="button01" name="button" />
+		  <br>
+		  Block<input id="block_text_id" type="text"  size="1"/>
+		  Line<input id="line_text_id" type="text"  size="1"/>
+		  Character<input id="word_text_id" type="text"  size="1"/></br>
+		  <input type="button" value="cookie書き込み" onclick="writing2()"/>
+		  <input type="button" value="cookie読み込み" onclick="loading2()"/>
+		  <input type="button" value="id更新" onclick="Try()"/>
+		  <input type="button" value="cookie削除" onclick="Try2()"/></br>
+		  <!-- <input id="scaling" typr="text" size="1"/> -->
+		  <!-- <input type="button" value="倍率変更" onclick="change_scale()"/>	       -->
+<!--<input type="button" value="四角枠" id="box" onclick="box()"/>
+<input type="button" value="直線" id="straight" onclick="straight()"/>
+<input type="button" value="曲線" id="wave" onclick="wave()"/>
+<input type="button" value="二重線" id="double" onclick="double()"/>
+<input type="button" value="継続" id="end_straight2" onclick="straight2()"/>
+-->
+<form name="form1">
+<select name="color1" id="select1">
+    <option value="box">四角枠</option>
+    <option value="straight">直線</option>
+    <option value="double">二重線</option>
+　　　　<option value="wave">曲線</option>
+</select>
+<input type="button" value="実装" id="btn1_click" onclick="btn1_click()"/><br/>
+</form>
+
+<form name="form2">
+<select name="color2" id="select2">
+<option value="straight_end">枠、下線の継続・終了</option>
+    <option value="lead">継続</option>
+    <option value="end_box">四角枠終了</option>
+    <option value="straight_end">下線終了</option>
+    </select>
+<input type="button" value="実装" id="btn2_click" onclick="btn2_click()"/><br/>
+<!--<input type="button" value="終了" id="load_straight" onclick="load_straight()"/>
+<input type="button" value="四角終了" id="end_box" onclick="end_box()"/>
+ 
+-->
+
+</select>
+	    </tr>
+	  </table>
+	</td>
+      </tr>
+    </table>
+    </div>
+    <!-- xmlファイルの保存 -->
+    <script type="text/javascript">
+      function handleDownload(){
+      var iL_text = document.getElementById("iL").value; 
+      var blob = new Blob([iL_text]);
+      if (window.navigator.msSaveBlob) { 
+      window.navigator.msSaveBlob(blob, "test.xml"); 
+      window.navigator.msSaveOrOpenBlob(blob, "test.xml"); 
+      } else {
+      document.getElementById("download").href = window.URL.createObjectURL(blob);
+      }
+      }
+    </script>
+    <!-- txtファイルの保存 -->
+    <script type="text/javascript">
+      function handleDownload2(){
+      var chara_save_text = document.getElementById("from_cpp").value; 
+      var blob2 = new Blob([chara_save_text]);
+      if (window.navigator.msSaveBlob) { 
+      window.navigator.msSaveBlob(blob2, "sample(rect_info).txt"); 
+      window.navigator.msSaveOrOpenBlob(blob2, "sample(rect_info).txt"); 
+      } else {
+      document.getElementById("download2").href = window.URL.createObjectURL(blob2);
+      }
+      }
+    </script>
+    <!-- cookieの処理を行うボタンの呼びだし関数 -->
+    <script type="text/javascript">  
+      var deletetime = "nodata";
+      
+      function writing2(){
+      saveCK3(60);
+      }
+
+      function loading2(){
+      block_text_id.value=loadCK3(0);
+      line_text_id.value=loadCK3(1);
+      word_text_id.value=loadCK3(2);
+      }
+
+      function deleting2(){
+      //deleteCK3(deletetime);
+      //if(deleteCK3(item1)){
+      //alert("cookie1の削除完了！");
+      }
+
+     
+ 
+
+    </script>
+
+    <script src="file.js"></script><!-- ファイル操作 -->
+    <script src="cookie.js"></script><!-- クッキーの操作 -->
+    <script src="annotation.js"></script><!-- ほぼ本体 -->
+  </body>
+</html>
+
+
+

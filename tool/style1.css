@@ -1,0 +1,146 @@
+html, body {
+    font-size: 20px;
+    text-align: center;
+}
+div#print_image {
+    margin: 1rem auto;
+}
+canvas {
+    border: 1px solid #333;
+    max-width: 1000%;
+    height: 1000;
+}
+
+#timerText{
+            color: red;
+            font-size: 40px;
+            margin: 5px auto;
+            text-shadow: 0 1px rgba(255,255,255,0.5);
+        }
+
+/* input[type="radio"] { */
+/* 	display: none; */
+/* } */
+
+
+/* .button-radio input[type="radio"] { */
+/*   display:none;  */
+/* } */
+
+/* .button-radio label { */
+/*   display:inline-block; */
+/*   color:#fff; */
+/*   background-color:#2780e3; */
+/*   padding:5px 10px; */
+/* } */
+
+/* .button-radio input[type="radio"]:checked + label {  */
+/*   background-color:#000; */
+/* } */
+
+
+/* label { */
+/* 	position: relative; */
+/* 	display: inline-block; */
+/* 	padding: 3px 3px 3px 20px; */
+/* 	cursor: pointer; */
+/* } */
+/* label::before { */
+/* 	position: absolute; */
+/* 	content: ''; */
+/* 	top: 50%; */
+/* 	left: 0; */
+/* 	width: 14px; */
+/* 	height: 14px; */
+/* 	margin-top: -8px; */
+/* 	background: #fff; */
+/* 	border: 1px solid #ccc; */
+/* 	border-radius: 100%; */
+/* } */
+/* input[type="radio"]:checked + label::after { */
+/* 	position: absolute; */
+/* 	content: ''; */
+/* 	top: 50%; */
+/* 	left: 4px; */
+/* 	width: 8px; */
+/* 	height: 8px; */
+/* 	margin-top: -4px; */
+/* 	background: #3498db; */
+/* 	border-radius: 100%; */
+/* } */
+
+.custom textarea {
+	outline: none;
+	border: 1px solid #aaa;
+	-webkit-transition: all .3s;
+	transition: all .3s;
+}
+
+.custom textarea:focus {
+	box-shadow: 0 0 7px #1abc9c;
+	border: 1px solid #1abc9c;
+}
+
+
+
+
+
+
+
+
+/* input[type=radio] { */
+/*     display: inline-block; */
+/*     margin-right: 6px; */
+/* } */
+/* input[type=radio] + label { */
+/*     position: relative; */
+/*     display: inline-block; */
+/*     margin-right: 12px; */
+/*     line-height: 1.5px; */
+/*     /\* cursor: pointer; *\/ */
+/* } */
+ 
+/* @media (min-width: 1px) { */
+/*     input[type=radio] { */
+/*         display: none; */
+/*         margin: 0; */
+/*     } */
+/*     input[type=radio] + label { */
+/*         padding: 0 0 0 24px; */
+/*     } */
+/*     input[type=radio] + label::before { */
+/*         content: ""; */
+/*         position: absolute; */
+/*         top: 50%; */
+/*         left: 0; */
+/* 	-webkit-box-sizing: border-box; */
+/*         -moz-box-sizing: border-box; */
+/*         box-sizing: border-box; */
+/*         display: block; */
+/*         width: 18px; */
+/*         height: 18px; */
+/*         margin-top: -9px; */
+/*         background-color: white; */
+/*     } */
+/*     input[type=radio] + label::before { */
+/*         border: 2px solid #c2ced2; */
+/*         border-radius: 30px; */
+/*     } */
+   
+/*     input[type=radio]:checked + label::after { */
+/*         content: ""; */
+/*         position: absolute; */
+/*         top: 50%; */
+/*         -moz-box-sizing: border-box; */
+/*         box-sizing: border-box; */
+/*         display: block; */
+/*     } */
+/*     input[type=radio]:checked + label::after { */
+/*         left: 5px; */
+/*         width: 8px; */
+/*         height: 8px; */
+/*         margin-top: -4px;  */
+/*         background: #19c5ff; */
+/*         border-radius: 8px; */
+/*     } */
+/* } */

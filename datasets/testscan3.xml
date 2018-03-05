@@ -1,0 +1,1087 @@
+<?xml version="1.0" ?>
+<Page id="1" filename="scan003.png" width="2467" height="3525">
+<Block id="2" width="1104" height="120" xoffset="117" yoffset="70">
+<Line id="3" width="1104" height="120" xoffset="117" yoffset="70">
+<Character id="4" width="76" height="90" xoffset="117" yoffset="100">
+上
+</Character>
+<Character id="5" width="123" height="92" xoffset="214" yoffset="93">
+級
+</Character>
+<Character id="6" width="74" height="57" xoffset="340" yoffset="108">
+プ
+</Character>
+<Character id="7" width="43" height="43" xoffset="426" yoffset="112">
+ロ
+</Character>
+<Character id="8" width="62" height="58" xoffset="474" yoffset="105">
+グ
+</Character>
+<Character id="9" width="50" height="59" xoffset="541" yoffset="104">
+ラ
+</Character>
+<Character id="10" width="43" height="48" xoffset="610" yoffset="112">
+ミ
+</Character>
+<Character id="11" width="36" height="46" xoffset="666" yoffset="111">
+ン
+</Character>
+<Character id="12" width="51" height="72" xoffset="717" yoffset="93">
+グ
+</Character>
+<Character id="13" width="23" height="102" xoffset="892" yoffset="70">
+(
+</Character>
+<Character id="14" width="43" height="97" xoffset="932" yoffset="81">
+木
+</Character>
+<Character id="15" width="84" height="86" xoffset="993" yoffset="86">
+村
+</Character>
+<Character id="16" width="79" height="67" xoffset="1081" yoffset="92">
+研
+</Character>
+<Character id="17" width="24" height="97" xoffset="1197" yoffset="89">
+)
+</Character>
+</Line>
+</Block>
+<Block id="18" width="2273" height="1235" xoffset="88" yoffset="244">
+<Line id="19" width="684" height="105" xoffset="88" yoffset="244">
+<Character id="20" width="73" height="91" xoffset="88" yoffset="258">
+第
+</Character>
+<Character id="21" width="53" height="65" xoffset="187" yoffset="277">
+3
+</Character>
+<Character id="22" width="111" height="85" xoffset="248" yoffset="250">
+週
+</Character>
+<Character id="23" width="92" height="84" xoffset="412" yoffset="250">
+説
+</Character>
+<Character id="24" width="90" height="92" xoffset="517" yoffset="244">
+明
+</Character>
+<Character id="25" width="42" height="63" xoffset="649" yoffset="269">
+メ
+</Character>
+<Character id="26" width="62" height="46" xoffset="710" yoffset="282">
+モ
+</Character>
+</Line>
+<Line id="27" width="553" height="125" xoffset="176" yoffset="425">
+<Character id="28" width="89" height="106" xoffset="176" yoffset="444">
+画
+</Character>
+<Character id="29" width="132" height="99" xoffset="279" yoffset="431">
+像
+</Character>
+<Character id="30" width="45" height="42" xoffset="443" yoffset="477">
+の
+</Character>
+<Character id="31" width="77" height="100" xoffset="506" yoffset="431">
+表
+</Character>
+<Character id="32" width="169" height="113" xoffset="560" yoffset="425">
+現
+</Character>
+</Line>
+<Line id="33" width="405" height="99" xoffset="1092" yoffset="537">
+<Character id="34" width="44" height="61" xoffset="1092" yoffset="556">
+ラ
+</Character>
+<Character id="35" width="54" height="67" xoffset="1125" yoffset="558">
+ス
+</Character>
+<Character id="36" width="43" height="99" xoffset="1181" yoffset="537">
+タ
+</Character>
+<Character id="37" width="56" height="46" xoffset="1236" yoffset="548">
+型
+</Character>
+<Character id="38" width="59" height="78" xoffset="1326" yoffset="546">
+画
+</Character>
+<Character id="39" width="102" height="93" xoffset="1395" yoffset="537">
+像
+</Character>
+</Line>
+<Line id="40" width="1025" height="102" xoffset="1095" yoffset="640">
+<Character id="41" width="43" height="46" xoffset="1095" yoffset="696">
+ｎ
+</Character>
+<Character id="42" width="44" height="58" xoffset="1154" yoffset="680">
+字
+</Character>
+<Character id="43" width="31" height="69" xoffset="1212" yoffset="672">
+方
+</Character>
+<Character id="44" width="53" height="72" xoffset="1255" yoffset="667">
+空
+</Character>
+<Character id="45" width="53" height="72" xoffset="1318" yoffset="658">
+間
+</Character>
+<Character id="46" width="48" height="39" xoffset="1378" yoffset="683">
+に
+</Character>
+<Character id="47" width="87" height="67" xoffset="1447" yoffset="670">
+配
+</Character>
+<Character id="48" width="68" height="73" xoffset="1536" yoffset="664">
+列
+</Character>
+<Character id="49" width="41" height="42" xoffset="1611" yoffset="676">
+さ
+</Character>
+<Character id="50" width="45" height="42" xoffset="1658" yoffset="674">
+れ
+</Character>
+<Character id="51" width="43" height="61" xoffset="1710" yoffset="662">
+た
+</Character>
+<Character id="52" width="63" height="66" xoffset="1778" yoffset="663">
+画
+</Character>
+<Character id="53" width="42" height="72" xoffset="1863" yoffset="651">
+素
+</Character>
+<Character id="54" width="51" height="40" xoffset="1924" yoffset="684">
+の
+</Character>
+<Character id="55" width="79" height="74" xoffset="2000" yoffset="640">
+集
+</Character>
+<Character id="56" width="53" height="73" xoffset="2067" yoffset="641">
+合
+</Character>
+</Line>
+<Line id="57" width="414" height="82" xoffset="1078" yoffset="744">
+<Character id="58" width="36" height="64" xoffset="1078" yoffset="762">
+☆
+</Character>
+<Character id="59" width="45" height="76" xoffset="1120" yoffset="744">
+今
+</Character>
+<Character id="60" width="48" height="70" xoffset="1183" yoffset="751">
+回
+</Character>
+<Character id="61" width="47" height="63" xoffset="1255" yoffset="750">
+は
+</Character>
+<Character id="62" width="35" height="42" xoffset="1328" yoffset="762">
+二
+</Character>
+<Character id="63" width="63" height="67" xoffset="1368" yoffset="745">
+次
+</Character>
+<Character id="64" width="62" height="47" xoffset="1430" yoffset="749">
+元
+</Character>
+</Line>
+<Line id="65" width="1176" height="121" xoffset="929" yoffset="812">
+<Character id="66" width="49" height="63" xoffset="929" yoffset="835">
+L
+</Character>
+<Character id="67" width="21" height="26" xoffset="1017" yoffset="855">
+:
+</Character>
+<Character id="68" width="32" height="54" xoffset="1099" yoffset="832">
+L
+</Character>
+<Character id="69" width="23" height="60" xoffset="1147" yoffset="831">
+(
+</Character>
+<Character id="70" width="18" height="57" xoffset="1186" yoffset="830">
+i
+</Character>
+<Character id="71" width="18" height="57" xoffset="1186" yoffset="830">
+,
+</Character>
+<Character id="72" width="38" height="96" xoffset="1247" yoffset="837">
+j
+</Character>
+<Character id="73" width="22" height="58" xoffset="1305" yoffset="848">
+)
+</Character>
+<Character id="74" width="54" height="56" xoffset="1441" yoffset="823">
+画
+</Character>
+<Character id="75" width="85" height="73" xoffset="1494" yoffset="815">
+素
+</Character>
+<Character id="76" width="48" height="64" xoffset="1577" yoffset="830">
+p
+</Character>
+<Character id="77" width="13" height="15" xoffset="1641" yoffset="861">
+:
+</Character>
+<Character id="78" width="24" height="60" xoffset="1674" yoffset="832">
+(
+</Character>
+<Character id="79" width="21" height="64" xoffset="1719" yoffset="812">
+i
+</Character>
+<Character id="80" width="10" height="12" xoffset="1750" yoffset="864">
+,
+</Character>
+<Character id="81" width="40" height="81" xoffset="1762" yoffset="833">
+j
+</Character>
+<Character id="82" width="27" height="54" xoffset="1817" yoffset="840">
+)
+</Character>
+<Character id="83" width="39" height="36" xoffset="1875" yoffset="846">
+の
+</Character>
+<Character id="84" width="43" height="31" xoffset="1938" yoffset="844">
+画
+</Character>
+<Character id="85" width="31" height="42" xoffset="1993" yoffset="850">
+素
+</Character>
+<Character id="86" width="32" height="77" xoffset="2073" yoffset="819">
+値
+</Character>
+</Line>
+<Line id="87" width="317" height="107" xoffset="1045" yoffset="937">
+<Character id="88" width="18" height="39" xoffset="1045" yoffset="937">
+i
+</Character>
+<Character id="89" width="16" height="12" xoffset="1070" yoffset="954">
+:
+</Character>
+<Character id="90" width="20" height="32" xoffset="1104" yoffset="940">
+0
+</Character>
+<Character id="91" width="8" height="10" xoffset="1134" yoffset="958">
+.
+</Character>
+<Character id="92" width="10" height="31" xoffset="1152" yoffset="940">
+1
+</Character>
+<Character id="93" width="6" height="9" xoffset="1172" yoffset="960">
+,
+</Character>
+<Character id="94" width="16" height="22" xoffset="1183" yoffset="941">
+2
+</Character>
+<Character id="95" width="43" height="6" xoffset="1216" yoffset="950">
+,
+</Character>
+<Character id="96" width="40" height="29" xoffset="1283" yoffset="938">
+…
+</Character>
+<Character id="97" width="23" height="6" xoffset="1328" yoffset="949">
+W
+</Character>
+<Character id="98" width="23" height="6" xoffset="1328" yoffset="949">
+-
+</Character>
+<Character id="99" width="12" height="58" xoffset="1055" yoffset="986">
+1
+</Character>
+<Character id="100" width="16" height="14" xoffset="1081" yoffset="1001">
+j
+</Character>
+<Character id="101" width="18" height="28" xoffset="1111" yoffset="992">
+:
+</Character>
+<Character id="102" width="10" height="9" xoffset="1134" yoffset="1009.8399963378906">
+0
+</Character>
+<Character id="103" width="9" height="28" xoffset="1161" yoffset="991">
+,
+</Character>
+<Character id="104" width="10" height="7" xoffset="1176" yoffset="1011">
+1
+</Character>
+<Character id="105" width="19" height="28" xoffset="1197" yoffset="983">
+,
+</Character>
+<Character id="106" width="48" height="7" xoffset="1230" yoffset="998">
+2
+</Character>
+<Character id="107" width="35" height="39" xoffset="1285" yoffset="977">
+…
+</Character>
+<Character id="108" width="26" height="7" xoffset="1325" yoffset="991">
+H
+</Character>
+<Character id="109" width="10" height="38" xoffset="1352" yoffset="979">
+-
+</Character>
+</Line>
+<Line id="110" width="682" height="103" xoffset="1427" yoffset="922">
+<Character id="111" width="39" height="34" xoffset="1427" yoffset="947">
+L
+</Character>
+<Character id="112" width="108" height="85" xoffset="1494" yoffset="922">
+濃
+</Character>
+<Character id="113" width="50" height="103" xoffset="1605" yoffset="922">
+淡
+</Character>
+<Character id="114" width="87" height="80" xoffset="1738" yoffset="944">
+輝
+</Character>
+<Character id="115" width="58" height="73" xoffset="1834" yoffset="947">
+度
+</Character>
+<Character id="116" width="20" height="70" xoffset="1922" yoffset="947">
+(
+</Character>
+<Character id="117" width="51" height="68" xoffset="1950" yoffset="951">
+明
+</Character>
+<Character id="118" width="24" height="49" xoffset="2010" yoffset="958">
+る
+</Character>
+<Character id="119" width="28" height="36" xoffset="2043" yoffset="961">
+さ
+</Character>
+<Character id="120" width="23" height="65" xoffset="2086" yoffset="958">
+)
+</Character>
+</Line>
+<Line id="121" width="410" height="73" xoffset="1031" yoffset="1012">
+<Character id="122" width="45" height="29" xoffset="1031" yoffset="1036">
+モ
+</Character>
+<Character id="123" width="14" height="36" xoffset="1080" yoffset="1034">
+ノ
+</Character>
+<Character id="124" width="35" height="32" xoffset="1101" yoffset="1035">
+ク
+</Character>
+<Character id="125" width="31" height="32" xoffset="1143" yoffset="1034">
+ロ
+</Character>
+<Character id="126" width="15" height="5" xoffset="1186" yoffset="1051">
+ー
+</Character>
+<Character id="127" width="46" height="37" xoffset="1213" yoffset="1032">
+ム
+</Character>
+<Character id="128" width="67" height="61" xoffset="1276" yoffset="1018">
+画
+</Character>
+<Character id="129" width="101" height="73" xoffset="1340" yoffset="1012">
+像
+</Character>
+</Line>
+<Line id="130" width="912" height="80" xoffset="1026" yoffset="1097">
+<Character id="131" width="55" height="42" xoffset="1026" yoffset="1124">
+ア
+</Character>
+<Character id="132" width="55" height="42" xoffset="1026" yoffset="1124">
+ル
+</Character>
+<Character id="133" width="23" height="44" xoffset="1148" yoffset="1120">
+チ
+</Character>
+<Character id="134" width="21" height="33" xoffset="1213" yoffset="1129">
+プ
+</Character>
+<Character id="135" width="35" height="37" xoffset="1249" yoffset="1127">
+レ
+</Character>
+<Character id="136" width="22" height="6" xoffset="1287" yoffset="1143">
+ー
+</Character>
+<Character id="137" width="30" height="31" xoffset="1323" yoffset="1129">
+ン
+</Character>
+<Character id="138" width="48" height="38" xoffset="1364" yoffset="1120">
+画
+</Character>
+<Character id="139" width="76" height="80" xoffset="1441" yoffset="1097">
+像
+</Character>
+<Character id="140" width="22" height="60" xoffset="1574" yoffset="1105">
+(
+</Character>
+<Character id="141" width="35" height="53" xoffset="1611" yoffset="1105">
+カ
+</Character>
+<Character id="142" width="41" height="40" xoffset="1653" yoffset="1118">
+ラ
+</Character>
+<Character id="143" width="33" height="7" xoffset="1712" yoffset="1138">
+ー
+</Character>
+<Character id="144" width="45" height="44" xoffset="1762" yoffset="1105">
+画
+</Character>
+<Character id="145" width="40" height="65" xoffset="1848" yoffset="1102">
+像
+</Character>
+<Character id="146" width="45" height="60" xoffset="1893" yoffset="1115">
+)
+</Character>
+</Line>
+<Line id="147" width="773" height="116" xoffset="1165" yoffset="1115">
+<Character id="148" width="45" height="60" xoffset="1893" yoffset="1115">
+(
+</Character>
+<Character id="149" width="32" height="54" xoffset="1165" yoffset="1162">
+チ
+</Character>
+<Character id="150" width="32" height="54" xoffset="1165" yoffset="1162">
+ャ
+</Character>
+<Character id="151" width="14" height="33" xoffset="1235" yoffset="1173">
+ン
+</Character>
+<Character id="152" width="40" height="41" xoffset="1257" yoffset="1169">
+ネ
+</Character>
+<Character id="153" width="50" height="36" xoffset="1299" yoffset="1175">
+ル
+</Character>
+<Character id="154" width="41" height="58" xoffset="1341" yoffset="1173">
+)
+</Character>
+</Line>
+<Line id="155" width="401" height="168" xoffset="991" yoffset="1221">
+<Character id="156" width="54" height="72" xoffset="991" yoffset="1223">
+L
+</Character>
+<Character id="157" width="25" height="16" xoffset="1054" yoffset="1256">
+:
+</Character>
+<Character id="158" width="38" height="63" xoffset="1112" yoffset="1226">
+L
+</Character>
+<Character id="159" width="27" height="39" xoffset="1160" yoffset="1254">
+k
+</Character>
+<Character id="160" width="25" height="72" xoffset="1197" yoffset="1221">
+(
+</Character>
+<Character id="161" width="24" height="56" xoffset="1225" yoffset="1231">
+i
+</Character>
+<Character id="162" width="12" height="18" xoffset="1258" yoffset="1276">
+,
+</Character>
+<Character id="163" width="25" height="70" xoffset="1283" yoffset="1239">
+j
+</Character>
+<Character id="164" width="34" height="74" xoffset="1322" yoffset="1237">
+)
+</Character>
+<Character id="165" width="31" height="52" xoffset="1074" yoffset="1329">
+k
+</Character>
+<Character id="166" width="14" height="19" xoffset="1119" yoffset="1347">
+:
+</Character>
+<Character id="167" width="9" height="34" xoffset="1212" yoffset="1349">
+1
+</Character>
+<Character id="168" width="12" height="16" xoffset="1229" yoffset="1373">
+,
+</Character>
+<Character id="169" width="25" height="28" xoffset="1248" yoffset="1351">
+2
+</Character>
+<Character id="170" width="47" height="10" xoffset="1288" yoffset="1360">
+…
+</Character>
+<Character id="171" width="45" height="59" xoffset="1347" yoffset="1330">
+K
+</Character>
+</Line>
+<Line id="172" width="708" height="255" xoffset="1653" yoffset="1224">
+<Character id="173" width="27" height="27" xoffset="1653" yoffset="1230">
+L
+</Character>
+<Character id="174" width="21" height="23" xoffset="1686" yoffset="1229">
+1
+</Character>
+<Character id="175" width="27" height="44" xoffset="1714" yoffset="1224">
+:
+</Character>
+<Character id="176" width="31" height="58" xoffset="1818" yoffset="1235">
+赤
+</Character>
+<Character id="177" width="10" height="33" xoffset="1856" yoffset="1265">
+l
+</Character>
+<Character id="178" width="15" height="38" xoffset="1945" yoffset="1252">
+2
+</Character>
+<Character id="179" width="56" height="59" xoffset="1989" yoffset="1231">
+:
+</Character>
+<Character id="180" width="36" height="46" xoffset="1818" yoffset="1330">
+緑
+</Character>
+<Character id="181" width="23" height="23" xoffset="1868" yoffset="1355">
+L
+</Character>
+<Character id="182" width="6" height="22" xoffset="1945" yoffset="1348">
+3
+</Character>
+<Character id="183" width="90" height="79" xoffset="1985" yoffset="1319">
+:
+</Character>
+<Character id="184" width="40" height="37" xoffset="1817" yoffset="1426">
+青
+</Character>
+<Character id="185" width="29" height="33" xoffset="1866" yoffset="1439">
+｝
+</Character>
+<Character id="186" width="6" height="36" xoffset="1932" yoffset="1436">
+R
+</Character>
+<Character id="187" width="49" height="64" xoffset="1974" yoffset="1415">
+G
+</Character>
+<Character id="188" width="43" height="246" xoffset="2090" yoffset="1224">
+B
+</Character>
+<Character id="189" width="35" height="61" xoffset="2156" yoffset="1279">
+三
+</Character>
+<Character id="190" width="36" height="69" xoffset="2198" yoffset="1271">
+原
+</Character>
+<Character id="191" width="33" height="59" xoffset="2245" yoffset="1276">
+色
+</Character>
+<Character id="192" width="39" height="38" xoffset="2180" yoffset="1369">
+
+</Character>
+<Character id="193" width="40" height="72" xoffset="2236" yoffset="1356">
+
+</Character>
+<Character id="194" width="82" height="85" xoffset="2279" yoffset="1355">
+
+</Character>
+</Line>
+</Block>
+<Block id="195" width="1741" height="251.8399658203125" xoffset="529" yoffset="1599">
+<Line id="196" width="0" height="0" xoffset="2250" yoffset="1610.8399658203125">
+<Character id="197" width="0" height="0" xoffset="2250" yoffset="1610.8399658203125">
+～
+</Character>
+</Line>
+<Line id="198" width="1275" height="109" xoffset="529" yoffset="1599">
+<Character id="199" width="39" height="64" xoffset="529" yoffset="1604">
+L
+</Character>
+<Character id="200" width="16" height="45" xoffset="576" yoffset="1633">
+i
+</Character>
+<Character id="201" width="20" height="62" xoffset="604" yoffset="1631">
+j
+</Character>
+<Character id="202" width="37" height="44" xoffset="693" yoffset="1627">
+と
+</Character>
+<Character id="203" width="69" height="77" xoffset="736" yoffset="1599">
+表
+</Character>
+<Character id="204" width="58" height="78" xoffset="810" yoffset="1599">
+記
+</Character>
+<Character id="205" width="-3" height="63" xoffset="871" yoffset="1614">
+し
+</Character>
+<Character id="206" width="14" height="31" xoffset="928" yoffset="1635">
+た
+</Character>
+<Character id="207" width="33" height="58" xoffset="950" yoffset="1620">
+り
+</Character>
+<Character id="208" width="39" height="68" xoffset="1113" yoffset="1621">
+L
+</Character>
+<Character id="209" width="29" height="43" xoffset="1170" yoffset="1637">
+で
+</Character>
+<Character id="210" width="50" height="65" xoffset="1221" yoffset="1637">
+は
+</Character>
+<Character id="211" width="41" height="65" xoffset="1271" yoffset="1637">
+な
+</Character>
+<Character id="212" width="30" height="53" xoffset="1338" yoffset="1640">
+く
+</Character>
+<Character id="213" width="42" height="84" xoffset="1400" yoffset="1615">
+f
+</Character>
+<Character id="214" width="37" height="64" xoffset="1485" yoffset="1636">
+を
+</Character>
+<Character id="215" width="66" height="84" xoffset="1523" yoffset="1622">
+使
+</Character>
+<Character id="216" width="17" height="24" xoffset="1593" yoffset="1680">
+っ
+</Character>
+<Character id="217" width="40" height="61" xoffset="1619" yoffset="1644">
+た
+</Character>
+<Character id="218" width="31" height="43" xoffset="1669" yoffset="1663">
+り
+</Character>
+<Character id="219" width="29" height="69" xoffset="1730" yoffset="1639">
+す
+</Character>
+<Character id="220" width="36" height="59" xoffset="1768" yoffset="1646">
+る
+</Character>
+</Line>
+<Line id="221" width="0" height="0" xoffset="2270" yoffset="1850.8399658203125">
+<Character id="222" width="0" height="0" xoffset="2270" yoffset="1850.8399658203125">
+~
+</Character>
+</Line>
+</Block>
+<Block id="223" width="2097" height="795" xoffset="263" yoffset="1883">
+<Line id="224" width="1764" height="116" xoffset="336" yoffset="1883">
+<Character id="225" width="39" height="54" xoffset="336" yoffset="1890">
+L
+</Character>
+<Character id="226" width="45" height="31" xoffset="426" yoffset="1906">
+の
+</Character>
+<Character id="227" width="59" height="69" xoffset="486" yoffset="1884">
+大
+</Character>
+<Character id="228" width="63" height="54" xoffset="563" yoffset="1890">
+小
+</Character>
+<Character id="229" width="50" height="54" xoffset="646" yoffset="1902">
+と
+</Character>
+<Character id="230" width="69" height="78" xoffset="749" yoffset="1883">
+画
+</Character>
+<Character id="231" width="55" height="72" xoffset="829" yoffset="1894">
+面
+</Character>
+<Character id="232" width="50" height="60" xoffset="892" yoffset="1901">
+上
+</Character>
+<Character id="233" width="43" height="40" xoffset="954" yoffset="1923">
+の
+</Character>
+<Character id="234" width="53" height="84" xoffset="1022" yoffset="1894">
+色
+</Character>
+<Character id="235" width="47" height="68" xoffset="1099" yoffset="1912">
+は
+</Character>
+<Character id="236" width="44" height="10" xoffset="1177" yoffset="1940">
+一
+</Character>
+<Character id="237" width="79" height="68" xoffset="1237" yoffset="1916">
+致
+</Character>
+<Character id="238" width="39" height="47" xoffset="1327" yoffset="1939">
+し
+</Character>
+<Character id="239" width="44" height="70" xoffset="1363" yoffset="1927">
+な
+</Character>
+<Character id="240" width="42" height="36" xoffset="1422" yoffset="1944">
+い
+</Character>
+<Character id="241" width="29" height="44" xoffset="1637" yoffset="1916">
+0
+</Character>
+<Character id="242" width="50" height="29" xoffset="1688" yoffset="1930">
+→
+</Character>
+<Character id="243" width="29" height="56" xoffset="1756" yoffset="1922">
+白
+</Character>
+<Character id="244" width="8" height="58" xoffset="1947" yoffset="1939">
+1
+</Character>
+<Character id="245" width="69" height="31" xoffset="1980" yoffset="1953">
+→
+</Character>
+<Character id="246" width="27" height="55" xoffset="2073" yoffset="1944">
+白
+</Character>
+</Line>
+<Line id="247" width="2068" height="98" xoffset="292" yoffset="2053">
+<Character id="248" width="58" height="83" xoffset="292" yoffset="2053">
+計
+</Character>
+<Character id="249" width="46" height="90" xoffset="356" yoffset="2053">
+算
+</Character>
+<Character id="250" width="91" height="91" xoffset="413" yoffset="2060">
+機
+</Character>
+<Character id="251" width="61" height="59" xoffset="529" yoffset="2076">
+上
+</Character>
+<Character id="252" width="50" height="39" xoffset="612" yoffset="2090">
+で
+</Character>
+<Character id="253" width="47" height="49" xoffset="675" yoffset="2080">
+表
+</Character>
+<Character id="254" width="52" height="83" xoffset="786" yoffset="2057">
+現
+</Character>
+<Character id="255" width="31" height="69" xoffset="853" yoffset="2068">
+す
+</Character>
+<Character id="256" width="16" height="54" xoffset="902" yoffset="2079">
+る
+</Character>
+<Character id="257" width="83" height="78" xoffset="935" yoffset="2061">
+場
+</Character>
+<Character id="258" width="51" height="78" xoffset="1018" yoffset="2061">
+合
+</Character>
+<Character id="259" width="67" height="76" xoffset="1133" yoffset="2064">
+量
+</Character>
+<Character id="260" width="47" height="67" xoffset="1199" yoffset="2078">
+子
+</Character>
+<Character id="261" width="69" height="68" xoffset="1248" yoffset="2078">
+化
+</Character>
+<Character id="262" width="37" height="54" xoffset="1335" yoffset="2094">
+レ
+</Character>
+<Character id="263" width="58" height="35" xoffset="1384" yoffset="2102">
+ベ
+</Character>
+<Character id="264" width="52" height="38" xoffset="1453" yoffset="2097">
+ル
+</Character>
+<Character id="265" width="58" height="46" xoffset="1518" yoffset="2088">
+に
+</Character>
+<Character id="266" width="54" height="58" xoffset="1587" yoffset="2073">
+対
+</Character>
+<Character id="267" width="36" height="45" xoffset="1671" yoffset="2089">
+し
+</Character>
+<Character id="268" width="33" height="37" xoffset="1719" yoffset="2094">
+て
+</Character>
+<Character id="269" width="50" height="87" xoffset="1779" yoffset="2054">
+チ
+</Character>
+<Character id="270" width="38" height="45" xoffset="1837" yoffset="2094">
+ャ
+</Character>
+<Character id="271" width="20" height="35" xoffset="1879" yoffset="2093">
+ン
+</Character>
+<Character id="272" width="37" height="56" xoffset="1900" yoffset="2076">
+ネ
+</Character>
+<Character id="273" width="46" height="38" xoffset="1944" yoffset="2089">
+ル
+</Character>
+<Character id="274" width="35" height="32" xoffset="2011" yoffset="2078">
+の
+</Character>
+<Character id="275" width="38" height="53" xoffset="2068" yoffset="2069">
+ビ
+</Character>
+<Character id="276" width="20" height="15" xoffset="2109" yoffset="2099">
+ッ
+</Character>
+<Character id="277" width="14" height="55" xoffset="2141" yoffset="2072">
+ト
+</Character>
+<Character id="278" width="55" height="74" xoffset="2185" yoffset="2058">
+深
+</Character>
+<Character id="279" width="58" height="70" xoffset="2252" yoffset="2068">
+度
+</Character>
+<Character id="280" width="45" height="51" xoffset="2315" yoffset="2075">
+が
+</Character>
+</Line>
+<Line id="281" width="189" height="87" xoffset="263" yoffset="2168">
+<Character id="282" width="62" height="87" xoffset="263" yoffset="2168">
+異
+</Character>
+<Character id="283" width="29" height="72" xoffset="354" yoffset="2175">
+な
+</Character>
+<Character id="284" width="62" height="58" xoffset="390" yoffset="2182">
+る
+</Character>
+</Line>
+<Line id="285" width="1525" height="214" xoffset="589" yoffset="2222">
+<Character id="286" width="42" height="54" xoffset="589" yoffset="2227">
+L
+</Character>
+<Character id="287" width="19" height="58" xoffset="652" yoffset="2222">
+(
+</Character>
+<Character id="288" width="14" height="38" xoffset="673" yoffset="2236">
+i
+</Character>
+<Character id="289" width="12" height="18" xoffset="700" yoffset="2261">
+,
+</Character>
+<Character id="290" width="25" height="68" xoffset="723" yoffset="2224">
+j
+</Character>
+<Character id="291" width="30" height="59" xoffset="758" yoffset="2225">
+)
+</Character>
+<Character id="292" width="10" height="33" xoffset="847" yoffset="2234">
+:
+</Character>
+<Character id="293" width="43" height="45" xoffset="897" yoffset="2232">
+0
+</Character>
+<Character id="294" width="59" height="24" xoffset="954" yoffset="2241">
+～
+</Character>
+<Character id="295" width="32" height="40" xoffset="1024" yoffset="2233">
+2
+</Character>
+<Character id="296" width="39" height="48" xoffset="1059" yoffset="2232">
+5
+</Character>
+<Character id="297" width="46" height="49" xoffset="1095" yoffset="2238">
+5
+</Character>
+<Character id="298" width="37" height="59" xoffset="1333" yoffset="2225">
+8
+</Character>
+<Character id="299" width="28" height="51" xoffset="1382" yoffset="2234">
+ビ
+</Character>
+<Character id="300" width="31" height="51" xoffset="1412" yoffset="2248">
+ッ
+</Character>
+<Character id="301" width="32" height="71" xoffset="1452" yoffset="2228">
+ト
+</Character>
+<Character id="302" width="36" height="51" xoffset="1658" yoffset="2229">
+0
+</Character>
+<Character id="303" width="69" height="37" xoffset="1698" yoffset="2243">
+～
+</Character>
+<Character id="304" width="33" height="57" xoffset="1782" yoffset="2227.8399658203125">
+4
+</Character>
+<Character id="305" width="19" height="63" xoffset="1819" yoffset="2223">
+0
+</Character>
+<Character id="306" width="22" height="63" xoffset="1843" yoffset="2223">
+9
+</Character>
+<Character id="307" width="30" height="53" xoffset="1862" yoffset="2229">
+6
+</Character>
+<Character id="308" width="11" height="50" xoffset="1970" yoffset="2226">
+ビ
+</Character>
+<Character id="309" width="26" height="33" xoffset="1987" yoffset="2235">
+ッ
+</Character>
+<Character id="310" width="35" height="52" xoffset="2021" yoffset="2229">
+ト
+</Character>
+<Character id="311" width="30" height="31" xoffset="2050" yoffset="2260.8399658203125">
+0
+</Character>
+<Character id="312" width="27" height="60" xoffset="2087" yoffset="2224">
+～
+</Character>
+<Character id="313" width="24" height="48" xoffset="892" yoffset="2350">
+6
+</Character>
+<Character id="314" width="51" height="34" xoffset="932" yoffset="2363">
+5
+</Character>
+<Character id="315" width="21" height="66" xoffset="1014" yoffset="2339">
+5
+</Character>
+<Character id="316" width="31" height="57" xoffset="1035" yoffset="2339">
+3
+</Character>
+<Character id="317" width="39" height="55" xoffset="1063" yoffset="2348">
+5
+</Character>
+<Character id="318" width="38" height="57" xoffset="1091" yoffset="2354">
+1
+</Character>
+<Character id="319" width="42" height="59" xoffset="1132" yoffset="2352">
+6
+</Character>
+<Character id="320" width="25" height="62" xoffset="1299" yoffset="2360">
+ビ
+</Character>
+<Character id="321" width="31" height="59" xoffset="1324" yoffset="2363">
+ッ
+</Character>
+<Character id="322" width="49" height="60" xoffset="1373" yoffset="2366">
+ト
+</Character>
+<Character id="323" width="31" height="35" xoffset="1417" yoffset="2401">
+
+</Character>
+<Character id="324" width="29" height="76" xoffset="1462" yoffset="2360">
+
+</Character>
+</Line>
+<Line id="325" width="1775" height="225" xoffset="574" yoffset="2453">
+<Character id="326" width="31" height="42" xoffset="574" yoffset="2456">
+D
+</Character>
+<Character id="327" width="31" height="44" xoffset="608" yoffset="2456">
+8
+</Character>
+<Character id="328" width="41" height="67" xoffset="638" yoffset="2454.8399658203125">
+0
+</Character>
+<Character id="329" width="9" height="35" xoffset="689" yoffset="2455">
+:
+</Character>
+<Character id="330" width="9" height="52" xoffset="780" yoffset="2457">
+1
+</Character>
+<Character id="331" width="30" height="38" xoffset="794" yoffset="2465">
+2
+</Character>
+<Character id="332" width="34" height="48" xoffset="829" yoffset="2472">
+ビ
+</Character>
+<Character id="333" width="25" height="32" xoffset="861" yoffset="2498">
+ッ
+</Character>
+<Character id="334" width="26" height="51" xoffset="890" yoffset="2479">
+ト
+</Character>
+<Character id="335" width="55" height="102" xoffset="923" yoffset="2453">
+／
+</Character>
+<Character id="336" width="38" height="73" xoffset="960" yoffset="2476">
+チ
+</Character>
+<Character id="337" width="32" height="52" xoffset="998" yoffset="2497">
+ャ
+</Character>
+<Character id="338" width="26" height="38" xoffset="1032" yoffset="2496">
+ン
+</Character>
+<Character id="339" width="39" height="57" xoffset="1054" yoffset="2487">
+ネ
+</Character>
+<Character id="340" width="57" height="41" xoffset="1098" yoffset="2503">
+ル
+</Character>
+<Character id="341" width="41" height="48" xoffset="1199" yoffset="2489">
+×
+</Character>
+<Character id="342" width="45" height="61" xoffset="1273" yoffset="2485">
+3
+</Character>
+<Character id="343" width="62" height="76" xoffset="1331" yoffset="2485">
+色
+</Character>
+<Character id="344" width="33" height="19" xoffset="1430" yoffset="2515">
+＝
+</Character>
+<Character id="345" width="51" height="58" xoffset="1498" yoffset="2501">
+2
+</Character>
+<Character id="346" width="20" height="43" xoffset="1537" yoffset="2466">
+(
+</Character>
+<Character id="347" width="29" height="38" xoffset="1553" yoffset="2472">
+3
+</Character>
+<Character id="348" width="22" height="43" xoffset="1579" yoffset="2476">
+6
+</Character>
+<Character id="349" width="20" height="33" xoffset="1600" yoffset="2482">
+)
+</Character>
+<Character id="350" width="20" height="21" xoffset="1662" yoffset="2520">
+＝
+</Character>
+<Character id="351" width="37" height="69" xoffset="1734" yoffset="2480">
+6
+</Character>
+<Character id="352" width="40" height="68" xoffset="1783" yoffset="2478">
+8
+</Character>
+<Character id="353" width="8" height="20" xoffset="1827" yoffset="2535">
+,
+</Character>
+<Character id="354" width="25" height="57" xoffset="1852" yoffset="2488">
+7
+</Character>
+<Character id="355" width="9" height="50" xoffset="1895" yoffset="2496">
+1
+</Character>
+<Character id="356" width="36" height="59" xoffset="1912" yoffset="2480">
+9
+</Character>
+<Character id="357" width="23" height="25" xoffset="1946" yoffset="2534.8399658203125">
+,
+</Character>
+<Character id="358" width="51" height="59" xoffset="1975" yoffset="2493">
+4
+</Character>
+<Character id="359" width="39" height="65" xoffset="2019" yoffset="2488">
+7
+</Character>
+<Character id="360" width="39" height="65" xoffset="2061" yoffset="2496">
+6
+</Character>
+<Character id="361" width="24" height="20" xoffset="2097" yoffset="2546.8399658203125">
+,
+</Character>
+<Character id="362" width="35" height="60" xoffset="2142" yoffset="2488">
+7
+</Character>
+<Character id="363" width="14" height="10" xoffset="2185" yoffset="2527">
+3
+</Character>
+<Character id="364" width="16" height="60" xoffset="2224" yoffset="2495">
+6
+</Character>
+<Character id="365" width="67" height="77" xoffset="2282" yoffset="2498">
+色
+</Character>
+<Character id="366" width="20" height="57" xoffset="1866" yoffset="2611">
+6
+</Character>
+<Character id="367" width="30" height="48" xoffset="1888" yoffset="2621">
+8
+</Character>
+<Character id="368" width="73" height="72" xoffset="1917" yoffset="2606">
+憶
+</Character>
+<Character id="369" width="48" height="74" xoffset="1994" yoffset="2604">
+色
+</Character>
+<Character id="370" width="56" height="63" xoffset="2055" yoffset="2604">
+以
+</Character>
+<Character id="371" width="52" height="56" xoffset="2130" yoffset="2608">
+上
+</Character>
+</Line>
+</Block>
+</Page>

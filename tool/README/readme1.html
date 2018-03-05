@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta http-equiv="Content-Type" Content="text/html;charset=UTF-8">
+    <title>TestTool 説明書</title>
+    <link rel="stylesheet" href="readme.css" type="text/css">
+  </head>
+  <body>
+    <center>
+      <h1>TestTool 説明書</h1>
+    </center>
+
+    <ul id="dropmenu">
+      <li><a href="./readme1.html">各部説明</a>
+      	<ul>
+	  <li> <a href="./readme1_1.html">ツールの表示説明</a></li>
+	  <li> <a href="./readme1_2.html">矩形の説明,underline機能</a></li>
+	</ul>
+      </li>
+      <li><a href="./readme2.html">操作方法</a>
+	<ul>
+	  <li> <a href="./readme2_1.html">矩形描画,underline機能</a></li>
+	  <li> <a href="./readme2_2.html">作業の再開・中断・終了</a></li>
+	  <li> <a href="./readme2_3.html">矩形の分割</a></li>
+	</ul>
+      <li><a href="./readme3.html">注意事項</a>
+      </li>
+    </ul>
+    
+      <p>
+<ul class="menu">
+      <li><img class="for_img" src="./testimgtest4.png" width="800" height="800" border="0" ></li>
+      </p>
+
+      <table class="type03" align="left">
+	<tr>
+	  <th scope="row">①</th>
+	  <td>入力画像の選択（ファイルを選択することで㉙のCanvasに画像ファイルを出力する．）</td>
+	</tr>
+	<tr>
+	  <th scope="row">②</th>
+	  <td>XMLファイルの出力画面</td>
+	</tr>
+	<tr>
+	  <th scope="row">③</th>
+	  <td>OpenCVの矩形出力情報（.txt形式）</td>
+	</tr>
+		<tr>
+	  <th scope="row">④</th>
+	  <td>XMLファイルの保存（名前をつけて保存する</td>
+	</tr>
+	<tr>
+	  <th scope="row">⑤</th>
+	  <td>XMLファイルの選択（ファイルを選択することで②のテキストボックスにXMLファイルを出力する）</td>
+	</tr>
+	<tr>
+	  <th scope="row">⑥</th>
+	  <td>Textファイルの選択（ファイルを選択することで③のテキストボックスにtxtファイルを出力する）</td>
+	</tr>
+		<tr>
+	  <th scope="row">⑦</th>
+	  <td>読み込んだ画像の大きさ</td>
+	</tr>
+	<tr>
+	  <th scope="row">⑧</th>
+	  <td>Lineの矩形を描画した際に出力されるXML形式のテキスト</td>
+	</tr>
+	<tr>
+	  <th scope="row">⑨</th>
+	  <td>矩形を分割する際に選んだ矩形</td>
+	</tr>
+	<tr>
+	  <th scope="row">⑩</th>
+	  <td>垂直に矩形を分割する際のボタン（ボタンを押すと⑨のCanvas上に垂直線が描画される）</td>
+	</tr>
+	<tr>
+	  <th scope="row">⑪</th>
+	  <td>水平に矩形を分割する際のボタン（ボタンを押すと⑨のCanvas上に水平線が描画される）</td>
+	</tr>
+		<tr>
+	  <th scope="row">⑫</th>
+	  <td>分割した矩形の情報を⑬のテキストボックスにテキストとして出力</td>
+	</tr>
+	<tr>
+	  <th scope="row">⑬</th>
+	  <td>分割した矩形の情報をテキストとして出力</td>
+	</tr>
+		<tr>
+	  <th scope="row">⑭</th>
+	  <td>㉙のCanvas上に描画された矩形の左上に整数値が割り振られているので，分割を行いたい矩形の番号を選んで入力</td>
+	</tr>
+	<tr>
+	  <th scope="row">⑮</th>
+	  <td>⑭で分割を行いたい矩形を選んだ後，このボタンを押すと⑨のCanvas上に拡大された矩形を出力させる</td>
+	</tr>
+	<tr>
+	  <th scope="row">⑯</th>
+	  <td>③のテキスト情報から㉙のCanvas上に紫色の矩形を描画</td>
+	</tr>
+		<tr>
+	  <th scope="row">⑰</th>
+	  <td>Blockの矩形を㉙のCanvas上に赤色で描画するとともに，②にXML出力</td>
+	</tr>
+	<tr>
+	  <th scope="row">⑱</th>
+	  <td>作業を終了する際のボタン（②のXMLの出力にPageの終わりを宣言）</td>
+	</tr>
+		<tr>
+	  <th scope="row">⑲</th>
+	  <td>Lineの矩形を㉙のCanvas上に描画（青色）しつつ，Line,Characterの矩形情報のXMLファイルを⑧のテキストボックスに出力</td>
+	</tr>
+	<tr>
+	  <th scope="row">⑳</th>
+	  <td>㉙のCanvas上に描画したCharacterの矩形の文字情報を入力するテキストボックス</td>
+	</tr>
+	<tr>
+	  <th scope="row">㉑</th>
+	  <td>Blockの矩形のID番号（現在描画されている最下部かつ最右部のBlockの矩形のID番号）</td>
+	</tr>
+		<tr>
+	  <th scope="row">㉒</th>
+	  <td>Lineの矩形のID番号（現在描画されている最下部かつ最右部のLineの矩形のID番号）</td>
+	</tr>
+		<tr>
+	  <th scope="row">㉓</th>
+	  <td>Characterの矩形のID番号（現在描画されている最下部かつ最右部のCharacterの矩形のID番号）</td>
+	</tr>
+	<tr>
+	  <th scope="row">㉔</th>
+	  <td>㉑〜㉓までのID番号をcookieに保存するためのボタン</td>
+	</tr>
+		<tr>
+	  <th scope="row">㉕</th>
+	  <td>cookieに保存されているID番号を読み込んで㉑〜㉓に表示させる</td>
+	</tr>
+	<tr>
+	  <th scope="row">㉖</th>
+	  <td>㉕を実行した後にこのボタンを押すとBlock,Line,CharacterのIDに反映させる（例：㉕で㉓のCharacterのIDを5と表示させた後に㉖を実行して㉙のCanvas上に矩形を描画するとその矩形のID番号は6となる）</td>
+	</tr>
+	<tr>
+	  <th scope="row">㉗</th>
+	  <td>ID番号をすべて0する（これを実行しただけでは㉑〜㉓の表示が0となるだけで，㉖を実行しなければID番号は㉗を実行する前の状態のままである）</td>
+	</tr>
+	<tr>
+	  <th scope="row">㉘</th>
+	  <td>枠、線の選択する。四角枠、二重線、直線、波線の中から選ぶ。</td>
+	</tr>
+		<tr>
+	  <th scope="row">㉙</th>
+	  <td>㉘で選んだ文字情報を実装</td>
+	</tr>
+<tr>
+	  <th scope="row">㉚</th>
+	  <td>線、四角枠の終了場所を選ぶ。行の途中で終わっているのか、次の行まで続いているのか選択する。</td>
+	</tr>
+<tr>
+	  <th scope="row">㉛</th>
+	  <td>㉚で選んだ文字情報を実装</td>
+	</tr>
+<tr>
+	  <th scope="row">㉜</th>
+	  <td>①で選択した画像ファイルを表示させるCanvas</td>
+	</tr>
+      </table>
+
+
+      
+  </body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta http-equiv="Content-Type" Content="text/html;charset=UTF-8">
+    <title>TestTool 説明書</title>
+    <link rel="stylesheet" href="readme.css" type="text/css">
+  </head>
+  <body>
+    <center>
+      <h1>TestTool 説明書</h1>
+    </center>
+    
+    <ul id="dropmenu">
+      <li><a href="./readme1.html">各部説明</a>
+      	<ul>
+	  <li> <a href="./readme1_1.html">ツールの表示説明</a></li>
+	  <li> <a href="./readme1_2.html">矩形の説明,underline機能</a></li>
+	</ul>
+      </li>
+      <li><a href="./readme2.html">操作方法</a>
+	<ul>
+	  <li> <a href="./readme2_1.html">矩形描画</a></li>
+	  <li> <a href="./readme2_2.html">作業の再開・中断・終了</a></li>
+	  <li> <a href="./readme2_3.html">矩形の分割</a></li>
+	</ul>
+      <li><a href="./readme3.html">注意事項</a>
+      </li>
+    </ul>
+    
+    <span class="sample1">
+      1.ファイルの選択</br>
+    </span>
+    <span class="sample1sub">
+      ①から画像ファイルを選択し，Canvas上に出力する．出力と同時に⑦には画像の幅と高さを表示する．</br>
+      ⑥からOpenCVで作成した矩形の情報を記したTextファイルを選択し，③のテキストボックスに出力する．</br>
+      このテキストは1行ごとに1つの矩形の情報が記されている．</br>
+    </span>
+    <span class="sample2">
+      2.OpenCVで作成した矩形の描画</br>
+    </span>
+    <span class="sample2sub">
+      ⑯のボタンを押すことで③の矩形の情報を元に㉙のCanvas上に紫色の矩形を描画する．</br>
+      描画した各矩形には左上に整数値（③のnumと対応した整数値）がつけられている．</br>
+    </span>
+    <span class="sample3">
+      3.手動で矩形を描画</br>
+    </span>
+    <span class="sample3sub">
+      ㉙のCanvas上でマウスをクリック＆ドラッグすることで矩形を描画できる．</br>
+      描画は左上から行うものとし，一文字ごとに矩形を描画していく．</br>
+      この際，矩形は緑色で描画され，Characterの矩形として描画する．</br>
+      描画した矩形の中に紫色の矩形が1つもしくは複数存在すれば，紫色の矩形を全て囲う最小の矩形として描画する．</br>
+      描画した矩形の中に紫色の矩形が存在しない，もしくは紫色の矩形の一部のみが含まれている場合は，</br>
+      マウスで指定した大きさの矩形が描画される．</br>
+      
+    </span>
+    <span class="sample4">
+      4.文字情報の入力</br>
+    </span>
+    <span class="sample4sub">
+      3.でのCharacterの矩形の描画を一行描画するごとに文字情報の入力を行う．</br>
+      ⑳のテキストボックスに描画を行った行の文字情報を入力する．</br>
+      入力した文字情報は各文字が描画したそれぞれの矩形に対応している．</br>
+      文字情報の入力が完了した後，⑲のボタンを押せば㉙のCanvas上に3.で描画した，</br>
+      全ての矩形を囲う最小の矩形を青色で描画し（これをLineの矩形とする），</br>
+      ⑧のテキストボックスに描画したLine，Characterの矩形の情報をXML形式で表示させる．</br>
+    </span>
+    <span class="sample5">
+      5.Blockの矩形を描画</br>
+    </span>
+    <span class="sample5sub">
+      4.でLineの矩形を描画した後，1つもしくは複数のLineの矩形を含むBlockの矩形を描画する．</br>
+      Blockの矩形として描画したい範囲を予め決めておき，その範囲にあるLine，Characterの矩形の描画が終了すれば，</br>
+      ⑰のボタンを押すことでLine，Characterの矩形を全て含む最小の矩形をBlockの矩形として赤色で描画する．</br>
+      この時に⑧のテキスト情報は切り取られ，Blockの矩形の情報を含めたXMLのテキストとして，</br>
+      ②のテキストボックスに追加される．</br>
+      </br>
+      </br>
+      </br>
+      </br>
+    </span>
+
+
+    
+    
+  </body>
+</html>

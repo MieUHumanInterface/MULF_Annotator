@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta http-equiv="Content-Type" Content="text/html;charset=UTF-8">
+    <title>TestTool 説明書</title>
+    <link rel="stylesheet" href="readme.css" type="text/css">
+  </head>
+  <body>
+    <center>
+      <h1>TestTool 説明書</h1>
+    </center>
+    
+    <ul id="dropmenu">
+      <li><a href="./readme1.html">各部説明</a>
+		<ul>
+	  <li> <a href="./readme1_1.html">ツールの表示説明</a></li>
+	  <li> <a href="./readme1_2.html">矩形の説明,underline機能</a></li>
+	</ul>
+      </li>
+      <li><a href="./readme2.html">操作方法</a>
+	<ul>
+	  <li> <a href="./readme2_1.html">矩形描画</a></li>
+	  <li> <a href="./readme2_2.html">作業の再開・中断・終了</a></li>
+	  <li> <a href="./readme2_3.html">矩形の分割</a></li>
+	</ul>
+      <li><a href="./readme3.html">注意事項</a>
+      </li>
+    </ul>
+
+    <span class="sample6">
+      1.作業の中断</br>
+    </span>
+    <span class="sample6sub">
+      Blockの矩形を描画する作業まで行ってから作業を中断する．</br>
+      Blockの矩形はLineの矩形を選択することで描画しているので，作業を中断してしまうと</br>
+      作業中断前のLineの矩形と作業再開後のLineの矩形を1つのBlockの矩形として描画することが</br>
+      出来ない仕様になっている．Lineの矩形についても同様に，作業の中断は1つの行の</br>
+      Characterの矩形の描画が完了してから作業を中断する．</br>
+      中断する際に保存しておくのは作業を行って入力できたXMLファイルとBlock,Line,Characterの各ID番号である．</br>
+      XMLファイルの保存は④の"保存"を選択することで可能となっている．</br>
+      ID番号の保存は㉔のボタンを押すことでcookieに記録される．
+    </span>
+    <span class="sample7">
+      2.作業の再開</br>
+    </span>
+    <span class="sample7sub">
+      まずはファイルの選択を行う．</br>
+      入力画像ファイル，入力途中のXMLファイル，矩形情報の記されたTextファイルを①,⑤,⑥からそれぞれ選択する．</br>
+      次に㉕と㉖を実行することで保存したID番号の読み取りと更新を行っている．</br>
+      最後にXMLファイルを確認し，前回の作業がどこまで進んでいたかを確認する．</br>
+      XMLファイルに入力された文字情報を確認して作業を再開する位置を確認する．
+    </span>
+    <span class="sample8">
+      3.作業の終了</br>
+    </span>
+    <span class="sample8sub">
+      入力画像に対して矩形の描画が全て完了すれば，⑱を実行してXMLファイルを完成させた後，㉖,㉗を実行してID番号を消去する．</br>
+      その後，ページを一度更新してもらうことで別の作業に移行することができる．
+
+      </br>
+      </br>
+      </br>
+      </br>
+    </span>
+    
+
+    
+    
+  </body>
+</html>
